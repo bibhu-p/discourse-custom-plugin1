@@ -1,4 +1,5 @@
 {
-  "name": "Custom Discourse Theme",
-  "component": true,
+  "name": "Custom Remote theme",
+  "about_url": "https://github.com/bibhu-p/discourse-custom-plugin",
+  "license_url": "https://github.com/bibhu-p/discourse-custom-plugin"
 }
